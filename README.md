@@ -9,4 +9,4 @@
 - [Realizing Memory-Optimized Distributed Graph Processing](https://ieeexplore.ieee.org/document/8141951)
 - [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://github.com/iamsmkr/whitepapers/blob/main/Saga~Apple.pdf)
 - [Sortledton: a Universal, Transactional Graph Data Structure](https://github.com/iamsmkr/whitepapers/blob/main/Sortledton-%20a%20Universal%2C%20Transactional%20Graph%20Data%20Structure.pdf)
--[TwiBot-22: Towards Graph-Based Twitter Bot Detection](https://github.com/iamsmkr/whitepapers/blob/main/Towards%20Graph-Based%20Twitter%20Bot%20Detection.pdf)
+- [TwiBot-22: Towards Graph-Based Twitter Bot Detection](https://github.com/iamsmkr/whitepapers/blob/main/Towards%20Graph-Based%20Twitter%20Bot%20Detection.pdf)
