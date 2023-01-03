@@ -5,6 +5,7 @@
 - [Distributed_Temporal_Graph_Analytics_with_GRADOOP](https://github.com/iamsmkr/whitepapers/blob/main/Distributed_temporal_graph_analytics_with_GRADOOP.pdf)
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://github.com/iamsmkr/whitepapers/blob/main/Dynamo-%20Amazon%E2%80%99s%20Highly%20Available%20Key-value%20Store.pdf)
 - [How to Partition a Billion-Node Graph](https://github.com/iamsmkr/whitepapers/blob/main/Microsoft%20-%20How%20to%20Partition%20a%20Billion-Node%20Graph.pdf)
+- [Integrating SQL/PGQ into DuckDB](https://github.com/iamsmkr/whitepapers/blob/main/Integrating-SQL-PGQ-into-DuckDB.pdf)
 - [On Compressing Temporal Graphs](https://github.com/iamsmkr/whitepapers/blob/main/On%20Compressing%20Temporal%20Graphs.pdf)
 - [Realizing Memory-Optimized Distributed Graph Processing](https://ieeexplore.ieee.org/document/8141951)
 - [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://github.com/iamsmkr/whitepapers/blob/main/Saga~Apple.pdf)
