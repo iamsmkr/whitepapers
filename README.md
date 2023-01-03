@@ -1,5 +1,7 @@
 # Whitepapers
 
+- [A Review of In-Memory Space-Efficient Data Structures for Temporal Graphs](https://github.com/iamsmkr/whitepapers/blob/main/A%20Review%20of%20In-Memory%20Space-Efficient%20Data%20Structures%20for%20Temporal%20Graphs.pdf)
+- [A model and query language for temporal graph databases](https://github.com/iamsmkr/whitepapers/blob/main/A%20model%20and%20query%20language%20for%20temporal%20graph%20databases.pdf)
 - [Columnar Storage and List-based Processing for Graph Database Management Systems](https://github.com/iamsmkr/whitepapers/blob/main/Columnar%20Storage%20and%20List-based%20Processing%20for%20Graph%20Database%20Management%20Systems.pdf)
 - [Clock-G: A temporal graph management system with space-efficient storage technique](https://hal.archives-ouvertes.fr/hal-03621342/)
 - [Distributed_Temporal_Graph_Analytics_with_GRADOOP](https://github.com/iamsmkr/whitepapers/blob/main/Distributed_temporal_graph_analytics_with_GRADOOP.pdf)
